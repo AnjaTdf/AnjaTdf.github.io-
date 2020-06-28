@@ -5,4 +5,5 @@ Herr der Ringe dreht sich vor allem um Frodo, der den einen Ring zu zerstören h
 * netter Kerl
 * ein bisschen nerviger kleiner Kerl
 * total nervige Aufgabe
-*Zitat 2*
+Froda said 
+> Zitat 2
